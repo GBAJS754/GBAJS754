@@ -4,20 +4,5 @@
 <div align="center">
 
 :blush: Welcome To My Github Profile!
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-:love_letter: Here's My Notion Page
-<br/>
-Check My Study History
-<br/>
-https://www.notion.so/b6983e8091f84966b6f3c1ec38358fa5
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 </div>

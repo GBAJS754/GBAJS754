@@ -1,4 +1,8 @@
 <div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/GBAJS754/count.svg" width="240px" />
+</div>
+<div align="center">
   
 ## Project
 
